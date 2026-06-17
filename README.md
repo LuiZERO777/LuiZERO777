@@ -15,18 +15,10 @@ Contáctame en: <a href="mailto:">luisenrcas322@gmail.com</a>
 
 
 
-**Universidad Tecnológica del Perú (UTP)** <br/>
-🎓 Ingeniería de Software<br/>
-📅 2025 – Actualmente <br/>
+**Universidad Tecnológica de Tecamac** <br/>
+🎓 TSU en desarrollo de software multiplataforma<br/>
+📅 2026 – Actualmente <br/>
 ⏳ En curso.  
-
-
-
-**Instituto de Investigación y Desarrollo de Administración y Tecnología (IDAT)**<br/>
-🎓 Computación e Informática <br/>
-📅 2022 - 2024 <br/>
-✅ Finalizado. <br/>
-
 
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>

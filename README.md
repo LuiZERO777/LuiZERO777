@@ -18,13 +18,11 @@
 
 🏫 Universidad Tecnológica de Tecámac
 
-📚 Actualmente cursando el tercer cuatrimestre
-
 💻 Apasionado por el desarrollo de software
 
 🌱 Siempre aprendiendo nuevas tecnologías
 
-🎯 Intereses:
+🎯 Interesado en:
 
 * Desarrollo de aplicaciones Java
 * Desarrollo Web
@@ -37,7 +35,7 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 👨‍💻 Lenguajes
+### 👨‍💻 Tecnologias
 
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -48,16 +46,15 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ### 🗄️ Bases de Datos
 
 <p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
 ---
@@ -68,9 +65,7 @@
 
 🔧 CronaFix
 
-🏦 Cajero Automático Java (Principios SOLID)
-
-🚗 Sistema de Facturación Morenos
+🏦 Cajero Automático Java (Aplicando SOLID)
 
 📚 Proyectos Académicos de Desarrollo de Software
 
@@ -88,43 +83,46 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/users/TU_ID_DISCORD">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://twitter.com/@luisenrcas322">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💻 Áreas en las que me estoy especializando
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=tokyonight"/>
-
-</div>
+```text
+☕ Desarrollo Java               ████████████░░░░ 75%
+🗄️ Bases de Datos                ███████████░░░░░ 70%
+🖥️ NetBeans                      █████████████░░░ 80%
+🌐 Desarrollo Web (HTML)         ████████░░░░░░░░ 50%
+🏗️ Diseño de Sistemas            ██████████░░░░░░ 65%
+📚 Principios SOLID              █████████░░░░░░░ 60%
+```
 
 ---
 
-## 📈 Gráfico de Actividad
+## 🚀 Tecnologías en Aprendizaje
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackDoubleB&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=java,html,postgres,mysql,git,github"/>
 
-</div>
+</p>
+
+---
+
+## 🏆 Metas Tecnológicas
+
+* ✔ Mejorar mi programación orientada a objetos
+* ✔ Dominar PostgreSQL y MySQL
+* ✔ Aplicar correctamente SOLID
+* ✔ Crear sistemas completos de escritorio
+* ✔ Aprender desarrollo web Full Stack
+* ✔ Construir proyectos profesionales para mi portafolio
+
 
 ---
 
@@ -159,4 +157,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
 
 </div>
+
 

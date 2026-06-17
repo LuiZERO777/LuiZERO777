@@ -1,55 +1,162 @@
-<h1 align="center"><b>Hola , Soy Luis enrique Casiano Lozano</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-
-
-Soy estudiante de la carrera de **TSU en desarrollo de software multiplataforma**, actualmente me encuentro en mi tercer cuatrimestre de estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**.  
-Me apasiona aprender y crear soluciones.  
-
-Contáctame en: <a href="mailto:">luisenrcas322@gmail.com</a>  
-
-<h2>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
-  Estudios
-</h2>
-
-
-
-**Universidad Tecnológica de Tecamac** <br/>
-🎓 TSU en desarrollo de software multiplataforma<br/>
-📅 2026 – Actualmente <br/>
-⏳ En curso.  
-
-
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
-
-<p>tecnologias</p>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
-</span>  
-
-<h4>Bases de Datos</h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>  
-
-<h4>Redes y Contacto</h4>
-<p>
-<a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:luisenrcas322@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
-
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Reyna" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+
+# 👋 ¡Hola! Soy Luis Enrique Casiano Lozano
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=TSU+en+Desarrollo+de+Software+Multiplataforma;Desarrollador+Java+y+Bases+de+Datos;Aprendiendo+Front-End+y+Back-End;Bienvenido+a+mi+perfil+de+GitHub+🚀" />
+
+<img src="https://komarev.com/ghpvc/?username=BlackDoubleB&label=Visitas&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
-------
+---
 
-Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025
+## 🚀 Sobre mí
+
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+🎓 Estudiante de **TSU en Desarrollo de Software Multiplataforma**
+
+🏫 Universidad Tecnológica de Tecámac
+
+📚 Actualmente cursando el tercer cuatrimestre
+
+💻 Apasionado por el desarrollo de software
+
+🌱 Siempre aprendiendo nuevas tecnologías
+
+🎯 Intereses:
+
+* Desarrollo de aplicaciones Java
+* Desarrollo Web
+* Bases de Datos
+* Diseño de Interfaces
+* Ingeniería de Software
+* Principios SOLID
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 👨‍💻 Lenguajes
+
+<p align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+### ⚙️ Herramientas
+
+<p align="left">
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Proyectos Destacados
+
+🚍 Sistema ABALTAZAR
+
+🔧 CronaFix
+
+🏦 Cajero Automático Java (Principios SOLID)
+
+🚗 Sistema de Facturación Morenos
+
+📚 Proyectos Académicos de Desarrollo de Software
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+
+<a href="mailto:luisenrcas322@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BlackDoubleB">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/TU_ID_DISCORD">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackDoubleB&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Racha de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BlackDoubleB&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📈 Gráfico de Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlackDoubleB&theme=tokyo-night"/>
+
+</div>
+
+---
+
+## 🎯 Objetivos 2026
+
+✅ Mejorar mis habilidades en Java
+
+✅ Aprender JavaScript y CSS
+
+✅ Desarrollar proyectos más completos
+
+✅ Aplicar principios SOLID en mis sistemas
+
+✅ Crear aplicaciones web y de escritorio profesionales
+
+---
+
+## 💡 Frase Favorita
+
+<div align="center">
+
+> "El software es una gran combinación entre arte e ingeniería." — Bill Gates
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer"/>
+
+</div>
+

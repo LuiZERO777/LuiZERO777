@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=TSU+en+Desarrollo+de+Software+Multiplataforma;Desarrollador+Java+y+Bases+de+Datos;Aprendiendo+Front-End+y+Back-End;Bienvenido+a+mi+perfil+de+GitHub+🚀" />
 
-<img src="https://komarev.com/ghpvc/?username=BlackDoubleB&label=Visitas&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -88,19 +86,6 @@
 </a>
 
 </p>
-
----
-
-## 💻 Áreas en las que me estoy especializando
-
-```text
-☕ Desarrollo Java               ████████████░░░░ 75%
-🗄️ Bases de Datos                ███████████░░░░░ 70%
-🖥️ NetBeans                      █████████████░░░ 80%
-🌐 Desarrollo Web (HTML)         ████████░░░░░░░░ 50%
-🏗️ Diseño de Sistemas            ██████████░░░░░░ 65%
-📚 Principios SOLID              █████████░░░░░░░ 60%
-```
 
 ---
 
